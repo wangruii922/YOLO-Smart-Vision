@@ -1,0 +1,78 @@
+目标统计结果
+
+person: 792
+chair: 155
+bottle: 87
+cup: 86
+car: 81
+dining table: 56
+bowl: 54
+wine glass: 42
+book: 42
+laptop: 37
+broccoli: 37
+carrot: 37
+bird: 35
+motorcycle: 33
+tv: 32
+bus: 29
+vase: 28
+kite: 27
+potted plant: 26
+handbag: 25
+backpack: 24
+tie: 24
+boat: 23
+traffic light: 23
+knife: 22
+banana: 21
+couch: 21
+bench: 21
+cell phone: 20
+donut: 20
+pizza: 20
+truck: 18
+surfboard: 18
+zebra: 18
+sheep: 18
+fork: 17
+elephant: 17
+clock: 16
+suitcase: 16
+tennis racket: 15
+remote: 15
+sink: 15
+refrigerator: 14
+keyboard: 14
+toilet: 14
+horse: 14
+frisbee: 13
+skis: 12
+mouse: 12
+cat: 12
+apple: 12
+skateboard: 12
+bicycle: 12
+bed: 11
+sandwich: 11
+orange: 11
+umbrella: 11
+hot dog: 11
+sports ball: 10
+baseball bat: 10
+spoon: 10
+teddy bear: 9
+fire hydrant: 9
+parking meter: 9
+baseball glove: 8
+airplane: 8
+cake: 8
+dog: 7
+oven: 6
+snowboard: 6
+stop sign: 5
+train: 5
+giraffe: 5
+cow: 4
+bear: 3
+microwave: 3

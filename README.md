@@ -1,2 +1,11 @@
-# YOLO-Smart-Vision
-YOLOv8 + ByteTrack based intelligent visual analysis system with real-time detection, multi-object tracking, behavior analysis, trajectory clustering and PyQt5 GUI dashboard for surveillance and research applications.
+# YOLO Smart Vision System
+
+## Features
+- Object Detection (YOLO)
+- Heatmap Visualization
+- ROI Interaction
+- Tracking System
+- Analytics Module
+
+## Description
+This project integrates YOLO-based detection with visualization and tracking tools for smart vision applications.
